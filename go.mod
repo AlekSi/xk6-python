@@ -5,7 +5,7 @@ go 1.24.0
 require (
 	github.com/sirupsen/logrus v1.9.3
 	go.k6.io/k6 v1.4.2
-	go.starlark.net v0.0.0-20251109183026-be02852a5e1f
+	go.starlark.net v0.0.0-20260102030733-3fee463870c9
 )
 
 require (
